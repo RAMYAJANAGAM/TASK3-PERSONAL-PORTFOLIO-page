@@ -25,3 +25,5 @@ In terms of real-world application, a real-time chat system is essential in many
 
 OUTPUT:
 
+![Image](https://github.com/user-attachments/assets/fbd27b03-26b6-4ca4-a028-1f968e0691f4)
+![Image](https://github.com/user-attachments/assets/9ee84153-19da-41a3-9632-b1917422f40d)
